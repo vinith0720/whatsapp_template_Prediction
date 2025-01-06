@@ -99,6 +99,132 @@ The **WhatsApp Template Prediction** project is an AI-powered chatbot designed t
    ```
    - Sets up the Streamlit application with a title and user prompt.
    - Invokes the main application logic via `app_run()`.
+---
+## Chatbot Input Reference
+
+Here is a list of available template names for chatbot inputs:
+
+- login_alert
+- new_features_update
+- exclusive_offer_just_for_you
+- promotional_offer_template
+- Event Invitation
+- Newsletter Confirmation
+- Feedback Request Template
+- Seasonal Sale Announcement Template
+- Product Launch Notification Template
+- Loyalty Program Update Template
+- Cart Abandonment Reminder Template
+- Special Birthday Offer Template
+- Flash Sale Notification Template
+- Membership Renewal Reminder Template
+- Survey Participation Invitation Template
+- Referral Program Announcement Template
+- New Store Opening Announcement Template
+- Win a Prize Contest Template
+- Customer Appreciation Message Template
+- Seasonal Product Reminder Template
+- Flashback Friday Offer Template
+- Exclusive VIP Access Template
+- Limited-Time Bundle Offer Template
+- Product Review Request Template
+- Anniversary Sale Reminder Template
+- End of Season Clearance Template
+- New Collection Launch Template
+- Flash Sale Reminder Template
+- Subscription Template
+- Customer Feedback Request Template
+- Special Holiday Offer Template
+- Product Restock Notification Template
+- Event Invitation Template
+- Free Shipping Offer Template
+- back_to_school_promotion_template
+- birthday_discount_offer
+- E-Commerce: New Product Launch template
+- Software Development: Project Completion Notification template
+- Healthcare: Appointment Reminder Template
+- Travel: Booking Confirmation Template
+- Real Estate: Property Listing Alert Template
+- Fitness: Membership Renewal Reminder
+- Real Estate: Property Listing Alert
+- Fitness: Membership Renewal Reminder
+- Food Delivery: Order Confirmation
+- Course Enrollment Confirmation
+- Service Reminder
+- Logistics: Shipment Tracking Update
+- Finance: Loan Approval Notification
+- Hospitality: Reservation Confirmation
+- Appointment Confirmation
+- SaaS: Subscription Renewal Reminder
+- E-commerce: Account Login Authentication
+- Two-Factor Authentication (2FA)
+- Secure Account Access Code
+- Payment Verification Code
+- Password Reset Authentication
+- Loyalty Program Authentication
+- Secure Booking Authentication
+- Policy Update Authentication
+- Secure Exam Authentication
+- Property Viewing Authentication
+- Secure Document Access Authentication
+- SIM Activation Authentication
+- Vehicle Service Authentication
+- Employee Portal Access Authentication
+- Secure Class Booking Authentication
+- Loan Application Authentication
+- Appointment Verification Authentication
+- Property Rental Authentication
+- Secure Reservation Authentication
+- Service Activation Authentication
+- Order Delivery Update
+- Appointment Reminder
+- Bill Payment Reminder
+- Flight Status Update
+- Rent Payment Reminder
+- Data Usage Alert
+- Class Schedule Reminder
+- Package Out for Delivery
+- Service Appointment Reminder
+- Subscription Renewal Reminder
+- Retail: In-Store Pickup Reminder
+- Hospitality: Hotel Check-in Reminder
+- Utilities: Scheduled Power Maintenance Notice
+- Fitness: Class Booking Confirmation
+- Transportation: Ride Confirmation
+- Vehicle Service Authentication
+- Food Delivery: Order Confirmation
+- Healthcare: Prescription Refill Reminder
+- E-Learning: Course Progress Reminder
+- Transportation: Vehicle Pickup Notification
+- Subscription Service: Free Trial Expiry Notification
+- Banking: Account Balance Alert
+- Telecom: Plan Expiry Alert
+- Real Estate: Rent Due Reminder
+- Event Management: Event Reminder
+- E-commerce: New Product Launch Announcement
+- Beauty & Wellness: Limited-Time Offer
+- Fashion: Seasonal Collection Launch
+- Fitness: Membership Promotion
+- Automotive: Service Promotion
+- Travel: Holiday Package Promotion
+- Real Estate: Property Open House Invitation
+- Software: Free Trial Offer
+- Healthcare: Wellness Program Enrollment
+- Telecom: Upgrade to a New Plan
+- Beauty & Wellness: Limited-Time Offer
+- E-commerce: Abandoned Cart Reminder
+- Restaurant: Special Weekend Menu
+- Healthcare: Health Checkup Promo
+- Education: Webinar Registration
+- Retail: Flash Sale Alert
+- Fitness: Free Fitness Class Invite
+- Hospitality: Hotel Booking Discount
+- Automotive: New Car Launch Invite
+- Software: Product Feature Update
+- Education: Course Enrollment Reminder
+- Travel Agency: Exclusive Travel Deal
+- GYM: Membership Renewal Reminder Template
+
 
 ---
 

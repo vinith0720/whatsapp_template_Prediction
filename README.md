@@ -241,3 +241,10 @@ Here is a list of available template names for chatbot inputs:
 - **User-Friendly:** Intuitive chatbot interface for ease of use.
 
 For questions or assistance, contact **Vinith Kumar**.
+# Contact Information
+
+For any inquiries or support, feel free to reach out:
+
+- **LinkedIn:** [VINITH KUMAR](https://www.linkedin.com/in/vinith-kumar-m)
+- **Email:** [vinithkumar0720@gmail.com.com](mailto:vinithkumar0720@gmail.com)
+
